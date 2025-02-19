@@ -1,3 +1,13 @@
+pve-firmware (3.15-1) bookworm; urgency=medium
+
+  * update linux-firmware to 20250211
+
+  * update dvb-firmware to 1.5.0
+
+  * track firmware list for 6.12.9-1-pve kernel
+
+ -- Ethan Zuo <yuxuan.zuo@outlook.com>  Sun, 16 Feb 2025 23:09:53 +0800
+
 pve-firmware (3.14-3) bookworm; urgency=medium
 
   * update linux-firmware to current master based on the 20250109 tag
