@@ -1,3 +1,11 @@
+pve-firmware (3.15-1) bookworm; urgency=medium
+
+  * add fwlist-6.11.11-2-pve
+
+  * update linux-firmware to 20250311 tag
+
+ -- Proxmox Support Team <support@proxmox.com>  Tue, 25 Mar 2025 09:28:38 +0100
+
 pve-firmware (3.14-3) bookworm; urgency=medium
 
   * update linux-firmware to current master based on the 20250109 tag
