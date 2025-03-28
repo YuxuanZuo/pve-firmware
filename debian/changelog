@@ -1,3 +1,9 @@
+pve-firmware (3.15-2) bookworm; urgency=medium
+
+  * track firmware list for 6.14.0-1-pve kernel
+
+ -- Proxmox Support Team <support@proxmox.com>  Fri, 28 Mar 2025 14:54:33 +0100
+
 pve-firmware (3.15-1) bookworm; urgency=medium
 
   * add fwlist-6.11.11-2-pve
