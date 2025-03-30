@@ -200,8 +200,6 @@ inside-secure/eip197b/ifpp.bin
 inside-secure/eip197b/ipue.bin
 inside-secure/eip197d/ifpp.bin
 inside-secure/eip197d/ipue.bin
-intel/vpu/vpu_37xx_v0.0.bin
-intel/vpu/vpu_40xx_v0.0.bin
 isi4608.bin
 isi4616.bin
 isi608.bin
@@ -488,8 +486,6 @@ plfxlc/lifi-x.bin
 prism2_ru.fw
 prism_ap_fw.bin
 prism_sta_fw.bin
-qat_420xx.bin
-qat_420xx_mmp.bin
 ql2600_fw.bin
 ql2700_fw.bin
 ql8100_fw.bin
