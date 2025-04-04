@@ -299,6 +299,8 @@ iwlwifi-SoSnj-a0-mr-a0-59.ucode
 iwlwifi-SoSnj-a0-mr-a0-63.ucode
 iwlwifi-SoSnj-a0-mr-a0-66.ucode
 iwlwifi-SoSnj-a0-mr-a0-72.ucode
+iwlwifi-br-a0-pe-a0-96.ucode
+iwlwifi-br-a0-petc-a0-96.ucode
 iwlwifi-bz-a0-fm-a0-72.ucode
 iwlwifi-bz-a0-fm-b0-83.ucode
 iwlwifi-bz-a0-fm-b0-86.ucode
@@ -337,6 +339,7 @@ iwlwifi-bz-a0-hr-b0-93.ucode
 iwlwifi-bz-a0-mr-a0-63.ucode
 iwlwifi-bz-a0-mr-a0-66.ucode
 iwlwifi-bz-a0-mr-a0-72.ucode
+iwlwifi-dr-a0-pe-a0-96.ucode
 iwlwifi-gl-a0-fm-a0-72.ucode
 iwlwifi-gl-b0-fm-b0-72.ucode
 iwlwifi-gl-b0-fm-b0-83.ucode

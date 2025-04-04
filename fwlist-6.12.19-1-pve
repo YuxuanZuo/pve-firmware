@@ -1141,6 +1141,8 @@ iwlwifi-8000C-36.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
 iwlwifi-8265-36.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
 iwlwifi-9000-pu-b0-jf-b0-46.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
 iwlwifi-9260-th-b0-jf-b0-46.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
+iwlwifi-br-a0-pe-a0-96.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
+iwlwifi-br-a0-petc-a0-96.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
 iwlwifi-bz-a0-fm4-b0-93.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
 iwlwifi-bz-a0-fm-b0-93.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
 iwlwifi-bz-a0-fm-c0-93.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
@@ -1148,6 +1150,7 @@ iwlwifi-bz-a0-gf4-a0-93.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.
 iwlwifi-bz-a0-gf-a0-93.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
 iwlwifi-bz-a0-hr-b0-93.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
 iwlwifi-cc-a0-77.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
+iwlwifi-dr-a0-pe-a0-96.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
 iwlwifi-gl-b0-fm-b0-93.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
 iwlwifi-gl-c0-fm-c0-93.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
 iwlwifi-gl-c0-fm-c0.pnvm kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
