@@ -1,3 +1,11 @@
+pve-firmware (3.16-1) bookworm; urgency=medium
+
+  * add fwlist-6.11.11-2-pve
+
+  * update linux-firmware to 20250311 tag
+
+ -- Ehan Zuo <yuxuan.zuo@outlook.com>  Sun, 30 Mar 2025 23:11:26 +0800
+
 pve-firmware (3.15-1) bookworm; urgency=medium
 
   * update linux-firmware to 20250211
