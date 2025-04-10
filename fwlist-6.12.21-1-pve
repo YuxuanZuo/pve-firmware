@@ -2174,6 +2174,8 @@ rtlwifi/rtl8723bu_nic.bin kernel/drivers/net/wireless/realtek/rtl8xxxu/rtl8xxxu.
 rtlwifi/rtl8723efw.bin kernel/drivers/net/wireless/realtek/rtlwifi/rtl8723ae/rtl8723ae.ko
 rtlwifi/rtl8821aefw_29.bin kernel/drivers/net/wireless/realtek/rtlwifi/rtl8821ae/rtl8821ae.ko
 rtlwifi/rtl8821aefw.bin kernel/drivers/net/wireless/realtek/rtlwifi/rtl8821ae/rtl8821ae.ko
+rtw88/rtw8703b_fw.bin kernel/drivers/net/wireless/realtek/rtw88/rtw88_8703b.ko
+rtw88/rtw8703b_wow_fw.bin kernel/drivers/net/wireless/realtek/rtw88/rtw88_8703b.ko
 rtw88/rtw8723d_fw.bin kernel/drivers/net/wireless/realtek/rtw88/rtw88_8723d.ko
 rtw88/rtw8821c_fw.bin kernel/drivers/net/wireless/realtek/rtw88/rtw88_8821c.ko
 rtw88/rtw8822b_fw.bin kernel/drivers/net/wireless/realtek/rtw88/rtw88_8822b.ko
