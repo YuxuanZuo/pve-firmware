@@ -1,3 +1,9 @@
+pve-firmware (3.16-3) bookworm; urgency=medium
+
+  * add fwlist-6.12.21-1-pve
+
+ -- Ethan Zuo <yuxuan.zuo@outlook.com>  Thu, 10 Apr 2025 14:36:01 +0800
+
 pve-firmware (3.16-2) bookworm; urgency=medium
 
   * iwlwifi-extra: update list of forced inclusions to cover more hardware
