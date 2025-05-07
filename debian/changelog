@@ -1,3 +1,11 @@
+pve-firmware (3.15-4) bookworm; urgency=medium
+
+  * update linux-firmware to 20250410 tag
+
+  * update firmware list for 6.14.4 kernel
+
+ -- Proxmox Support Team <support@proxmox.com>  Wed, 07 May 2025 10:23:38 +0200
+
 pve-firmware (3.15-3) bookworm; urgency=medium
 
   * iwlwifi-extra: update list of forced inclusions to cover more hardware
