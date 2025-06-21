@@ -1105,6 +1105,7 @@ intel/ish/ish_*.bin kernel/drivers/hid/intel-ish-hid/intel-ish-ipc.ko
 intel/ish/ish_lnlm.bin kernel/drivers/hid/intel-ish-hid/intel-ish-ipc.ko
 intel/vpu/vpu_37xx_v0.0.bin kernel/drivers/accel/ivpu/intel_vpu.ko
 intel/vpu/vpu_40xx_v0.0.bin kernel/drivers/accel/ivpu/intel_vpu.ko
+intel/vpu/vpu_50xx_v0.0.bin kernel/drivers/accel/ivpu/intel_vpu.ko
 ipw2200-bss.fw kernel/drivers/net/wireless/intel/ipw2x00/ipw2200.ko
 ipw2200-ibss.fw kernel/drivers/net/wireless/intel/ipw2x00/ipw2200.ko
 ipw2200-sniffer.fw kernel/drivers/net/wireless/intel/ipw2x00/ipw2200.ko
