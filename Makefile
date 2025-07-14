@@ -38,7 +38,7 @@ fw.list: fwlist-6.2.16-11-pve
 fw.list: fwlist-6.5.3-1-pve
 fw.list: fwlist-6.8.1-1-pve
 fw.list: fwlist-6.8.8-1-pve
-fw.list: fwlist-6.8.12-7-pve
+fw.list: fwlist-6.8.12-12-pve
 fw.list: fwlist-6.11.11-2-pve
 fw.list: fwlist-6.12.33-1-pve
 fw.list: fwlist-6.14.4-1-pve
