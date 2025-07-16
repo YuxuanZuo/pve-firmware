@@ -123,6 +123,7 @@ amdgpu/gc_10_3_7_mec.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/gc_10_3_7_pfp.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/gc_10_3_7_rlc.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/gc_11_0_0_imu.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
+amdgpu/gc_11_0_0_imu_kicker.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/gc_11_0_0_me.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/gc_11_0_0_mec.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/gc_11_0_0_mes1.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
@@ -131,6 +132,7 @@ amdgpu/gc_11_0_0_mes.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/gc_11_0_0_pfp.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/gc_11_0_0_rlc_1.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/gc_11_0_0_rlc.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
+amdgpu/gc_11_0_0_rlc_kicker.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/gc_11_0_0_toc.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/gc_11_0_1_imu.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/gc_11_0_1_me.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
@@ -418,7 +420,9 @@ amdgpu/polaris12_smc.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/polaris12_uvd.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/polaris12_vce.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/psp_13_0_0_sos.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
+amdgpu/psp_13_0_0_sos_kicker.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/psp_13_0_0_ta.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
+amdgpu/psp_13_0_0_ta_kicker.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/psp_13_0_10_sos.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/psp_13_0_10_ta.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/psp_13_0_11_ta.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
@@ -507,6 +511,7 @@ amdgpu/sienna_cichlid_sos.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/sienna_cichlid_ta.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/sienna_cichlid_vcn.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/smu_13_0_0.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
+amdgpu/smu_13_0_0_kicker.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/smu_13_0_10.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/smu_13_0_14.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
 amdgpu/smu_13_0_6.bin kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
@@ -1103,9 +1108,9 @@ intel/ipu/irci_irci_ecr-master_20161208_0213_20170112_1500.bin kernel/drivers/st
 intel/irci_irci_ecr-master_20161208_0213_20170112_1500.bin kernel/drivers/staging/media/ipu3/ipu3-imgu.ko
 intel/ish/ish_*.bin kernel/drivers/hid/intel-ish-hid/intel-ish-ipc.ko
 intel/ish/ish_lnlm.bin kernel/drivers/hid/intel-ish-hid/intel-ish-ipc.ko
-intel/vpu/vpu_37xx_v0.0.bin kernel/drivers/accel/ivpu/intel_vpu.ko
-intel/vpu/vpu_40xx_v0.0.bin kernel/drivers/accel/ivpu/intel_vpu.ko
-intel/vpu/vpu_50xx_v0.0.bin kernel/drivers/accel/ivpu/intel_vpu.ko
+intel/vpu/vpu_37xx_v1.bin kernel/drivers/accel/ivpu/intel_vpu.ko
+intel/vpu/vpu_40xx_v1.bin kernel/drivers/accel/ivpu/intel_vpu.ko
+intel/vpu/vpu_50xx_v1.bin kernel/drivers/accel/ivpu/intel_vpu.ko
 ipw2200-bss.fw kernel/drivers/net/wireless/intel/ipw2x00/ipw2200.ko
 ipw2200-ibss.fw kernel/drivers/net/wireless/intel/ipw2x00/ipw2200.ko
 ipw2200-sniffer.fw kernel/drivers/net/wireless/intel/ipw2x00/ipw2200.ko
@@ -1168,6 +1173,7 @@ iwlwifi-ma-b0-mr-a0-89.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.k
 iwlwifi-Qu-b0-hr-b0-77.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
 iwlwifi-Qu-b0-jf-b0-77.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
 iwlwifi-Qu-c0-hr-b0-77.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
+iwlwifi-Qu-c0-jf-b0-77.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
 iwlwifi-QuZ-a0-hr-b0-77.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
 iwlwifi-QuZ-a0-jf-b0-77.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
 iwlwifi-sc2-a0-fm-c0-93.ucode kernel/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
@@ -2121,6 +2127,7 @@ rtl_nic/rtl8106e-2.fw kernel/drivers/net/ethernet/realtek/r8169.ko
 rtl_nic/rtl8107e-2.fw kernel/drivers/net/ethernet/realtek/r8169.ko
 rtl_nic/rtl8125a-3.fw kernel/drivers/net/ethernet/realtek/r8169.ko
 rtl_nic/rtl8125b-2.fw kernel/drivers/net/ethernet/realtek/r8169.ko
+rtl_nic/rtl8125d-1.fw kernel/drivers/net/ethernet/realtek/r8169.ko
 rtl_nic/rtl8126a-2.fw kernel/drivers/net/ethernet/realtek/r8169.ko
 rtl_nic/rtl8126a-3.fw kernel/drivers/net/ethernet/realtek/r8169.ko
 rtl_nic/rtl8153a-2.fw kernel/drivers/net/usb/r8152.ko
@@ -2182,8 +2189,10 @@ rtw88/rtw8821c_fw.bin kernel/drivers/net/wireless/realtek/rtw88/rtw88_8821c.ko
 rtw88/rtw8822b_fw.bin kernel/drivers/net/wireless/realtek/rtw88/rtw88_8822b.ko
 rtw88/rtw8822c_fw.bin kernel/drivers/net/wireless/realtek/rtw88/rtw88_8822c.ko
 rtw88/rtw8822c_wow_fw.bin kernel/drivers/net/wireless/realtek/rtw88/rtw88_8822c.ko
+rtw89/rtw8851b_fw.bin kernel/drivers/net/wireless/realtek/rtw89/rtw89_8851b.ko
 rtw89/rtw8852a_fw.bin kernel/drivers/net/wireless/realtek/rtw89/rtw89_8852a.ko
 rtw89/rtw8852b_fw-1.bin kernel/drivers/net/wireless/realtek/rtw89/rtw89_8852b.ko
+rtw89/rtw8852bt_fw.bin kernel/drivers/net/wireless/realtek/rtw89/rtw89_8852bt.ko
 rtw89/rtw8852c_fw-1.bin kernel/drivers/net/wireless/realtek/rtw89/rtw89_8852c.ko
 rtw89/rtw8922a_fw-1.bin kernel/drivers/net/wireless/realtek/rtw89/rtw89_8922a.ko
 sd8385.bin kernel/drivers/net/wireless/marvell/libertas/libertas_sdio.ko

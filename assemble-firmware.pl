@@ -45,18 +45,13 @@ amdgpu/cyan_skillfish_sdma.bin
 amdgpu/cyan_skillfish_sdma1.bin
 amdgpu/gc_11_0_0_toc.bin
 amdgpu/gc_11_0_3_mes.bin
-amdgpu/gc_9_5_0_mec.bin
-amdgpu/gc_9_5_0_rlc.bin
 amdgpu/ip_discovery.bin
 amdgpu/navi10_mes.bin
 amdgpu/navi12_cap.bin
-amdgpu/psp_13_0_12_sos.bin
-amdgpu/psp_13_0_12_ta.bin
 amdgpu/sienna_cichlid_cap.bin
 amdgpu/sienna_cichlid_mes.bin
 amdgpu/sienna_cichlid_mes1.bin
 amdgpu/vangogh_gpu_info.bin
-amdgpu/vcn_5_0_1.bin
 amdgpu/vega10_cap.bin
 amdgpu/yellow_carp_gpu_info.bin
 amdnpu/17f0_20/npu.sbin
@@ -209,6 +204,7 @@ inside-secure/eip197b/ipue.bin
 inside-secure/eip197d/ifpp.bin
 inside-secure/eip197d/ipue.bin
 intel/vpu/vpu_50xx_v0.0.bin
+intel/vpu/vpu_50xx_v1.bin
 isi4608.bin
 isi4616.bin
 isi608.bin
