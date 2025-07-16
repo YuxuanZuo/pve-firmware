@@ -1,3 +1,13 @@
+pve-firmware (3.18-1) bookworm; urgency=medium
+
+  * add firmware list for 6.8.12-12-pve kernel
+
+  * update linux-firmware to 20250708 tag
+
+  * add firmware list for 6.12.38-1-pve kernel
+
+ -- Ethan Zuo <yuxuan.zuo@outlook.com>  Thu, 17 Jul 2025 01:44:21 +0800
+
 pve-firmware (3.17-1) bookworm; urgency=medium
 
   * update linux-firmware to 20250613 tag
